@@ -227,6 +227,4 @@ ggplot(average_steps_per_interval_data, aes(x = interval, y = steps)) +
 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
